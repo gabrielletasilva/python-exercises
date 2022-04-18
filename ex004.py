@@ -6,4 +6,3 @@ print('É númerico?', n.isnumeric())
 print('É decimal?', n.isdecimal())
 print('Só tem espaços?', n.isspace())
 print('É alfanúmerico?', n.isalnum())
-

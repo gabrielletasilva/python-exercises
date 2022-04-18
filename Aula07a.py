@@ -21,4 +21,3 @@ di = n1 // n2
 e = n1 ** n2
 print('A soma é {}, a multiplicação é {} e a divisão é {}'.format(s, m, d))
 print('Divisão inteira {} e potência {}'.format(di, e))
-
